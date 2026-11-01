@@ -14,3 +14,7 @@ Built while following a course, with my own changes.
 
 Work in progress. Files are being added gradually.
 
+
+
+Actually this is very hard to build this is like my 3rd month building this and still  I'm in the middle
+
