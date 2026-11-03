@@ -6,3 +6,6 @@ DerivedDataCache/
 *.sln
 *.suo
 *.VC.db
+Assets/
+Content/
+.vsconfig
